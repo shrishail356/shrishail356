@@ -51,7 +51,9 @@
 <br>
 <br>
 <br>
-
+<br>
+<h1 align="left">Daily Dose 🔥 </h1>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishail356" alt="shrishail356" /></a> </p>
 
 
