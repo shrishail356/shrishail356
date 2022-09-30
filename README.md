@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact :  **There are two ways to write error-free programs; only the third works😎.**
 <br>
-<img align="center" alt="coding" width="500"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif">
+<center><img alt="coding" width="500"  src="https://media.tenor.com/JPX5iWzkrfQAAAAS/akudama-drive-anime.gif"></center>
 <br>
 <br>
 <img align="center" alt="error" width="300"  src="https://cdn.dribbble.com/users/4047034/screenshots/9176275/media/b40e0d6c115634a62ec51c9b68a16f3f.gif">
