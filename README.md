@@ -88,6 +88,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrishail356&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
+### 🐍 Contribution Snake (Wavy Animation)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shrishail356/shrishail356/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
 ---
 
 <div align="center">
